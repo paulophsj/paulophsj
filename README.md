@@ -9,7 +9,7 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulophsj&show_icons=true&theme=github_dark" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulophsj&theme=github_dark" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophsj&theme=github_dark&langs_count=4&card_width=400" height="180px"/>
 </p>
 
