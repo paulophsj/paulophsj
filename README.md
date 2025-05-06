@@ -1,13 +1,18 @@
-# Olá! 👋 Eu sou Paulo Henrique  
-🎓 Estudante de Informática para Internet  
-💻 Desenvolvedor com foco em back-end  
-📍 Localização: Jaboatão dos Guararapes, Brasil
+# 👋 Olá! Eu sou Paulo Henrique
+
+🎓 Estudante de **Informática para Internet**  
+💻 Desenvolvedor com foco em **back-end**  
+📍 Localização: **Jaboatão dos Guararapes, Brasil**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulophsj&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulophsj&show_icons=true&theme=github_dark" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulophsj&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophsj&layout=compact&theme=github_dark" alt="Linguagens" />
+</p>
 
 ---
 
@@ -22,7 +27,6 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ---
 
