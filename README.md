@@ -32,4 +32,4 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-silva-004172275/)
-- [Portfólio](https://mypaulooprtfolio.onrender.com)
+- [Portfólio](https://mypauloportfolio.onrender.com)
