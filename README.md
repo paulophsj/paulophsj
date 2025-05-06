@@ -7,7 +7,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulophsj&show_icons=true&theme=tokyonight)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulophsj&show_icons=true&theme=github_dark)
 
 ---
 
