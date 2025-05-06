@@ -1,10 +1,15 @@
-# Olá! 👋 Eu sou [Paulo Henrique]
-
-🎓 Estudante de [Informática para Internert]  
+# Olá! 👋 Eu sou Paulo Henrique  
+🎓 Estudante de Informática para Internet  
 💻 Desenvolvedor com foco em back-end  
-📍 Localização: [Jaboatão dos Guararapes, Brasil]
+📍 Localização: Jaboatão dos Guararapes, Brasil
+
+---
+
+## 📊 Estatísticas do GitHub
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulophsj&show_icons=true&theme=tokyonight)
+
+---
 
 ## 🚀 Tecnologias que eu uso
 
@@ -14,9 +19,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GIT](https://img.shields.io/badge/git-CC5500?style=for-the-badge&logo=git&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 📫 Contato
 
