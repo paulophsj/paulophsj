@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Paulo Henrique
 
-🎓 Estudante de **Informática para Internet**  
+🎓 Formado em **Informática para Internet** pelo IFPE  
 💻 Desenvolvedor com foco em **back-end**  
 📍 Localização: **Jaboatão dos Guararapes, Brasil**
 
