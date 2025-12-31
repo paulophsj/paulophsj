@@ -6,15 +6,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulophsj&theme=github_dark" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophsj&theme=github_dark&langs_count=4&card_width=400" height="180px"/>
-</p>
-
----
-
 ## 🚀 Tecnologias que eu uso
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,4 +23,3 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-silva-004172275/)
-- [Portfólio](https://mypauloportfolio.onrender.com)
